@@ -1,0 +1,26 @@
+SmartFin Financial Summary Report
+=================================
+
+Loan Summary: 
+Principal: $22.00 | Rate: 22.00% | Term: 222.0 years | Monthly Payment: $0.40
+
+Highest Monthly Payment: $0.40
+Lowest Monthly Payment: $0.40
+
+Expense Breakdown:
+ Category-wise Spending:
+Uncategorized: $1200.00
+Food: $50.00
+Entertainment: $15.00
+
+Savings Projections:
+Savings Projections:
+Savings in 6 months: $396.00
+Savings in 1  year: $567.00
+Savings in 5 years: $5823.00
+
+Transaction History:
+Transaction History:
+Date: 02/21/2025 | Category: Uncategorized | Amount: $1200.00 | Description: Monthly Rent
+Date: 02/21/2025 | Category: Food | Amount: $50.00 | Description: Lunch at McDonald's
+Date: 02/21/2025 | Category: Entertainment | Amount: $15.00 | Description: Netflix subscription
